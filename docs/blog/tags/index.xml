@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ressources sociologiques</title>
+    <link>https://ressources-sociologiques.net/blog/tags/</link>
+    <description>Recent content in Tags on Ressources sociologiques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>[CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) Copyright © 2020 by Benjamin Geer</copyright>
+    <lastBuildDate>Fri, 22 Feb 2019 16:46:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://ressources-sociologiques.net/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Religion</title>
+      <link>https://ressources-sociologiques.net/blog/tags/religion/</link>
+      <pubDate>Fri, 22 Feb 2019 16:46:30 +0000</pubDate>
+      
+      <guid>https://ressources-sociologiques.net/blog/tags/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Théorie des champs</title>
+      <link>https://ressources-sociologiques.net/blog/tags/th%C3%A9orie-des-champs/</link>
+      <pubDate>Fri, 22 Feb 2019 16:46:30 +0000</pubDate>
+      
+      <guid>https://ressources-sociologiques.net/blog/tags/th%C3%A9orie-des-champs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Égypte</title>
+      <link>https://ressources-sociologiques.net/blog/tags/%C3%A9gypte/</link>
+      <pubDate>Fri, 22 Feb 2019 16:46:30 +0000</pubDate>
+      
+      <guid>https://ressources-sociologiques.net/blog/tags/%C3%A9gypte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cinéma</title>
+      <link>https://ressources-sociologiques.net/blog/tags/cin%C3%A9ma/</link>
+      <pubDate>Tue, 28 Apr 2015 21:33:14 +0000</pubDate>
+      
+      <guid>https://ressources-sociologiques.net/blog/tags/cin%C3%A9ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouvements sociaux</title>
+      <link>https://ressources-sociologiques.net/blog/tags/mouvements-sociaux/</link>
+      <pubDate>Sun, 05 Apr 2015 10:49:13 +0000</pubDate>
+      
+      <guid>https://ressources-sociologiques.net/blog/tags/mouvements-sociaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociologie publique</title>
+      <link>https://ressources-sociologiques.net/blog/tags/sociologie-publique/</link>
+      <pubDate>Sun, 05 Apr 2015 10:49:13 +0000</pubDate>
+      
+      <guid>https://ressources-sociologiques.net/blog/tags/sociologie-publique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
