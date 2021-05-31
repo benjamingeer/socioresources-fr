@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ressources-sociologiques.net/blog/categories/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
@@ -20,19 +19,13 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/environnement/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/in%C3%A9galit%C3%A9/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/2021/04/kawkabna/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,9 +43,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/2021/04/kawkabna/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/migration/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,9 +56,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/tags/migration/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/posts/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -85,14 +74,10 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/categories/projets/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,9 +95,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -130,9 +113,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/a-propos-de-lauteur/</loc>
     <lastmod>2020-06-02T14:12:02+00:00</lastmod>
     <xhtml:link
@@ -150,14 +131,10 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/a-propos-de-lauteur/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/categories/recherches/</loc>
     <lastmod>2019-02-22T16:46:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/religion/</loc>
     <lastmod>2019-02-22T16:46:30+00:00</lastmod>
     <xhtml:link
@@ -170,9 +147,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/tags/religion/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/2019/02/sortir-de-lillusion-scolastique/</loc>
     <lastmod>2019-02-22T16:46:30+00:00</lastmod>
     <xhtml:link
@@ -190,24 +165,16 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/2019/02/sortir-de-lillusion-scolastique/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/th%C3%A9orie-des-champs/</loc>
     <lastmod>2019-02-22T16:46:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/%C3%A9gypte/</loc>
     <lastmod>2019-02-22T16:46:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/cin%C3%A9ma/</loc>
     <lastmod>2015-04-28T21:33:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/2015/04/nouveau-livre-sur-les-cineastes-arabes/</loc>
     <lastmod>2015-04-28T21:33:14+00:00</lastmod>
     <xhtml:link
@@ -225,9 +192,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/2015/04/nouveau-livre-sur-les-cineastes-arabes/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/2015/04/comment-devenir-un-sociologue-public-obscur/</loc>
     <lastmod>2015-04-05T10:49:13+00:00</lastmod>
     <xhtml:link
@@ -245,24 +210,16 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/2015/04/comment-devenir-un-sociologue-public-obscur/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/categories/essais/</loc>
     <lastmod>2015-04-05T10:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/mouvements-sociaux/</loc>
     <lastmod>2015-04-05T10:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/tags/sociologie-publique/</loc>
     <lastmod>2015-04-05T10:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/2015/03/traduction-arabe-de-autonomie-et-capital-symbolique-dans-un-mouvement-social-universitaire/</loc>
     <lastmod>2015-03-06T21:46:50+00:00</lastmod>
     <xhtml:link
@@ -280,9 +237,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/2015/03/traduction-arabe-de-autonomie-et-capital-symbolique-dans-un-mouvement-social-universitaire/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/2014/05/le-making-of-autonomie-et-capital-symbolique-dans-un-mouvement-social-universitaire/</loc>
     <lastmod>2014-05-15T21:47:56+00:00</lastmod>
     <xhtml:link
@@ -300,9 +255,7 @@
                 hreflang="fr"
                 href="https://ressources-sociologiques.net/blog/2014/05/le-making-of-autonomie-et-capital-symbolique-dans-un-mouvement-social-universitaire/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ressources-sociologiques.net/blog/a-propos-de-ce-site/</loc>
     <lastmod>2013-10-14T20:20:33+00:00</lastmod>
     <xhtml:link
@@ -321,5 +274,4 @@
                 href="https://ressources-sociologiques.net/blog/a-propos-de-ce-site/"
                 />
   </url>
-  
 </urlset>
